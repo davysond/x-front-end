@@ -1,2 +1,29 @@
 # x-front-end
-Repositório destinado ao projeto de um serviço de posts, semelhante ao Twitter/X descentralizado, provido diretamente pela blockchain, utilizando uma carteira virtual (MetaMask, no meu caso) para permitir o envio e consumo através de Ethereum's de teste. O mesmo foi desenvolvido através dos ensinamentos diretos de Bernardo e Gabriel do @menthor.io.
+
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
